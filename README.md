@@ -14,6 +14,9 @@ To cite us:
 }
 ```
 
+![](images/acc_vs_rob_2moons_bis.png)
+
+
 The repository contains:
 * The slides `slides.pdf`
 * The poster `poster.pdf`
@@ -32,6 +35,12 @@ The code uses custom data loaders and data augmentation pipelines in Deep Learni
   
 Take note of **PEP427**: "A wheel is a ZIP-format archive with a specially formatted file name and the .whl extension.". 
 
+![](images/consistency_cifar_updated.png)
+
+
 ## Experiments in Appendix
 
 Other Pareto front in Appendix can be generated using the `pareto-front-experiment.py` with appropriate arguments.  
+
+
+![](images/vonkoch_cropped.png)
