@@ -1,4 +1,5 @@
-# Paper
+# Pay attention to your loss: understanding misconceptions about 1-Lipschitz Neural networks
+*Béthune Louis, Boissin Thibaut, Serrurier Mathieu, Mamalet Franck, Friedrich Corentin, González-Sanz Alberto*
 
 Official repository of the paper "Pay attention to your loss: understanding misconceptions about 1-Lipschitz Neural networks" accepted at Neurips 2022.
 Arxiv version: [https://arxiv.org/abs/2104.05097](https://arxiv.org/abs/2104.05097)
