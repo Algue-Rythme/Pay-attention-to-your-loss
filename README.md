@@ -1,3 +1,24 @@
+# Paper
+
+Official repository of the paper "Pay attention to your loss: understanding misconceptions about 1-Lipschitz Neural networks" accepted at Neurips 2022.
+Arxiv version: [https://arxiv.org/abs/2104.05097](https://arxiv.org/abs/2104.05097)
+
+To cite us:
+
+```
+@inproceedings{bethune2022pay,
+  year = {2022},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  title = {Pay attention to your loss: understanding misconceptions about 1-Lipschitz neural networks},
+  author = {Béthune, Louis and Boissin, Thibaut and Serrurier, Mathieu and Mamalet, Franck and Friedrich, Corentin and González-Sanz, Alberto},
+}
+```
+
+The repository contains:
+* The slides `slides.pdf`
+* The poster `poster.pdf`
+* and the code !
+
 # Code
 
 Our code for large scale experiments can be found in `.py` files.
